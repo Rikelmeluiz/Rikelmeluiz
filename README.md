@@ -2,10 +2,10 @@
 
       ＲＥＤＥＳ ＳＯＣＩＡＩＳ
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickky_lz/)
-
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikelme-luiz-4b781a254/)
-[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/Rikelmeluiz)[![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rikelme.luiz.50/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikelme-luiz-4b781a254/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/Rikelmeluiz)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rikelme.luiz.50/)
 
 
 ![Rikelmeluiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rikelmeluiz&show_icons=true&theme=radical)
