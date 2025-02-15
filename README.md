@@ -2,7 +2,7 @@
 
       ＲＥＤＥＳ ＳＯＣＩＡＩＳ
 
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickyyy_87/?next=%2F)
+[![Social](https://www.instagram.com/rickky_lz/)
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikelme-luiz-dos-santos-souza-4b781a254/)[![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/Rikelmeluiz)[![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rikelme.luiz.50/)[![Social](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/RIKeLlmesS/)[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )
